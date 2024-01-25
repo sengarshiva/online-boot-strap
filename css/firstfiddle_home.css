@@ -1,0 +1,95 @@
+.img123{
+    width: 80%
+}
+.a{ 
+    padding-top: 20px; 
+    text-transform: uppercase;
+    font-family: 'pargue';
+    letter-spacing: 3px;
+}
+.b{
+    line-height: 35px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-right: 5px;
+    text-align: justify;
+}
+
+.c{
+    background: url(https://pn-paul.netlify.app/image/ffback2.png);
+    height: 450px;
+    margin-top: 30px;
+    width: 100%;
+}
+.d{
+    word-spacing: 1px;
+    letter-spacing: 1px;
+    padding-right: 5px;
+    line-height: 35px;   
+}
+.e{
+    line-height: 35px;
+    word-spacing: 1px;
+    letter-spacing: 1px;
+    padding-right: 5px;
+    
+}
+.f{
+    padding-top: 20px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    font-family: 'pargue';
+}
+.g{
+    line-height: 30px;
+    font-size: 18px;
+    word-spacing: 1px;
+}
+.h{
+    text-transform: uppercase;
+    padding-top: 20px;
+    letter-spacing: 2px;
+    font-family: 'pargue';
+}
+/* navbar */
+    .weblogo{
+        width: 65px; 
+    
+    }
+    .navbar
+    {
+        background: #00000082!important;
+     }
+     .navbar-nav li
+     {
+       padding: 0 10px;
+     }
+     .navbar-nav li a
+     {
+        color: #fff!important;
+        font-weight: 500px;
+        font-size: 15px;
+     }
+     .moblogo{
+        display: none;
+     }
+
+     @media(max-width:768px)
+{
+    .img123{
+        width: 100%;
+        margin-top: 30px;
+    }
+    .weblogo{
+        display: none;
+    }
+    .moblogo{
+        display: block;
+    }
+    .navbar{
+        background: #fcb21c!important;
+       }
+    
+}
+     
+     

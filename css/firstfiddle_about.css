@@ -1,0 +1,70 @@
+.img123{
+    width: 100%;
+
+}
+.a{
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    font-family: 'pargue';
+    padding-top: 20px;
+
+}
+.b{
+    line-height: 35px;
+    word-spacing: 1px;
+    letter-spacing: 1px;
+    padding-right: 5px;
+    text-align: justify;
+}  
+@media(max-width:768px){
+    .img123{
+        width: 100%;
+        margin-top: 30px;
+      }
+}
+.c{
+    background: url(https://pn-paul.netlify.app/image/gamebanner.jpg);
+    height: 360px;
+    margin-top: 30px;
+    width: 100%;
+}   
+.d{
+    letter-spacing: 1px;
+    line-height: 35px;
+    word-spacing: 1px;
+    padding-right: 5px;   
+}
+.e{
+    word-spacing: 1px;
+    letter-spacing: 1px;
+    line-height: 40px;
+    padding-right: 5px;
+    text-align: center;
+    font-weight: lighter;
+}
+.f{
+    word-spacing: 1px;
+    letter-spacing: 3px;
+    font-size: 40px;
+    font-family: 'pargue';
+}
+.g{
+    line-height: 40px;
+    letter-spacing: 1px;
+    word-spacing: 1px; 
+    font-weight: lighter;
+    padding-top: 20px;
+    padding-right: 5px;
+}
+.h{
+    letter-spacing: 3px;
+    font-family: 'pargue';
+    padding-top: 20px;
+}
+.i{
+    line-height: 35px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    text-align: justify;
+    padding-right: 5px;
+}

@@ -1,0 +1,15 @@
+ .a{
+    text-align: center!important;
+    font-size: 60px;
+    font-family: pargue;
+    margin-top: 230px;
+    color: white;
+ 
+ }
+ .abc{
+    background: url(https://pn-paul.netlify.app/image/brands.jpg);
+    width: 100%;
+    height: 650px;
+    background-position: center;
+    background-size: cover;
+ }
